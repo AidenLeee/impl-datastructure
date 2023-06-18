@@ -1,2 +1,2 @@
 # impl-datastructure
-implement datastructure using Java
+implement data structure using Java
